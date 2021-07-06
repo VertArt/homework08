@@ -74,7 +74,7 @@
 
 .block-o4-main {
     height: 225px;
-    width: 550px;
+    width: 450px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -82,15 +82,13 @@
 .block-04-img {
     height: 200px;
     width: 200px;
-    display: inline-block;
-    vertical-align: middle;
+    float: left;
 }
 
 .block-04-discription {
     height: 200px;
     width: 200px;
-    display: inline-block;
-    vertical-align: middle;
+    float: right;
 }
 
 .block-04-discription h2 {
