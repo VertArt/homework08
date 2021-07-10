@@ -31,7 +31,6 @@
 }
 
 .block-2-items-imgs {
-    display: inline-block;
     height: 150px;
     width: 150px;
     padding: auto;
@@ -39,7 +38,6 @@
 }
 
 .block-2-items-imgs:last-child {
-    display: inline-block;
     height: 150px;
     width: 150px;
     padding: auto;
@@ -56,7 +54,7 @@
     margin-right: 25px;
     margin-top: 25px;
     margin-bottom: 25px;
-    display: inline-block;
+    float:left;
 }
 
 .block-03-imgs:last-child {
@@ -65,7 +63,6 @@
     margin-right: 0px;
     margin-top: 25px;
     margin-bottom: 25px;
-    display: inline-block;
 }
 
 .block-03-second{ 
@@ -73,7 +70,6 @@
 }
 
 .block-o4-main {
-    height: 225px;
     width: 450px;
     margin-left: auto;
     margin-right: auto;
